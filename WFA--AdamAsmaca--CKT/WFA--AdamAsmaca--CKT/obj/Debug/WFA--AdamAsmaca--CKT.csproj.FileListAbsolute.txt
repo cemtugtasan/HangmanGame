@@ -1,0 +1,13 @@
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\WFA--AdamAsmaca--CKT\WFA--AdamAsmaca--CKT\bin\Debug\WFA--AdamAsmaca--CKT.exe.config
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\WFA--AdamAsmaca--CKT\WFA--AdamAsmaca--CKT\bin\Debug\WFA--AdamAsmaca--CKT.exe
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\WFA--AdamAsmaca--CKT\WFA--AdamAsmaca--CKT\bin\Debug\WFA--AdamAsmaca--CKT.pdb
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\WFA--AdamAsmaca--CKT\WFA--AdamAsmaca--CKT\obj\Debug\WFA--AdamAsmaca--CKT.csproj.AssemblyReference.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\WFA--AdamAsmaca--CKT\WFA--AdamAsmaca--CKT\obj\Debug\WFA--AdamAsmaca--CKT.csproj.SuggestedBindingRedirects.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\WFA--AdamAsmaca--CKT\WFA--AdamAsmaca--CKT\obj\Debug\WFA__AdamAsmaca__CKT.AnaEkran.resources
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\WFA--AdamAsmaca--CKT\WFA--AdamAsmaca--CKT\obj\Debug\WFA__AdamAsmaca__CKT.OyunEkranı.resources
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\WFA--AdamAsmaca--CKT\WFA--AdamAsmaca--CKT\obj\Debug\WFA__AdamAsmaca__CKT.Properties.Resources.resources
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\WFA--AdamAsmaca--CKT\WFA--AdamAsmaca--CKT\obj\Debug\WFA--AdamAsmaca--CKT.csproj.GenerateResource.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\WFA--AdamAsmaca--CKT\WFA--AdamAsmaca--CKT\obj\Debug\WFA--AdamAsmaca--CKT.csproj.CoreCompileInputs.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\WFA--AdamAsmaca--CKT\WFA--AdamAsmaca--CKT\obj\Debug\WFA--AdamAsmaca--CKT.exe
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\WFA--AdamAsmaca--CKT\WFA--AdamAsmaca--CKT\obj\Debug\WFA--AdamAsmaca--CKT.pdb
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\WFA--AdamAsmaca--CKT\WFA--AdamAsmaca--CKT\obj\Debug\WFA__AdamAsmaca__CKT.Skor_Listesi.resources
